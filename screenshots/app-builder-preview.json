@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Native Bases",
+      "hasCanvas": false,
+      "bodyTextLen": 19230,
+      "bodyTextHash": "f0afc094cf12bdd31ac0f67e8d9b20c8a7f38f0e3e371f90c7981b6da9a40ee1",
+      "bodyTextPrefix": "Skip to abstract RECIPROCAL SCALE NOTES Native Bases CONTENTS Ab",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Native Bases",
+      "hasCanvas": false,
+      "bodyTextLen": 18921,
+      "bodyTextHash": "dbc5fc392653378d20aef8184af4e10a16b054d9bdb9a5080f82b0fddd7a184b",
+      "bodyTextPrefix": "Skip to abstract RECIPROCAL SCALE NOTES Native Bases Contents A ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
